@@ -10,13 +10,14 @@
     <img src="https://img.shields.io/badge/dev@sidepe.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 </p>
-
+<p align="center">
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple)
 ![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-cyan)
 ![React](https://img.shields.io/badge/React-Beginner-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
+</p>
 
 Web Designer & Web Developer located in Indonesia, Creating design & programming contents in [pandudesa](https://www.instagram.com/roedyrustam/ "").
 
