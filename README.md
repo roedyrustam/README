@@ -1,4 +1,15 @@
 # Roedy, here 👋
+<p align="center">
+  <a href="https://twitter.com/roedyrustam">
+    <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40zuramai&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
+  </a>
+  <a href="https://www.linkedin.com/in/roedy-rustam/">
+    <img src="https://img.shields.io/badge/-ahmad%20saugi-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  <a href="mailto:dev@sidepe.com">
+    <img src="https://img.shields.io/badge/dev@sidepe.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+</p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
