@@ -1,7 +1,7 @@
 # Roedy, here 👋
 <p align="center">
   <a href="https://twitter.com/roedyrustam">
-    <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40zuramai&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
+    <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40roedyrustam&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
   <a href="https://www.linkedin.com/in/roedy-rustam/">
     <img src="https://img.shields.io/badge/-roedy%20rustam-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
